@@ -1,0 +1,116 @@
+body {
+  font-family: roboto;
+  font-style: normal;
+}
+
+header {
+  position: absolute;
+  width: 1600px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+  background: #ffffff;
+}
+
+.main-display {
+  position: absolute;
+  width: 1600px;
+  height: 600px;
+  left: -4px;
+  top: 80px;
+  background: #2f303a;
+}
+
+.logo {
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+
+.main-button {
+  background-color: #2196f3;
+  color: white;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2196f3;
+}
+
+.contact-header {
+  position: absolute;
+  color: #757575;
+  height: 16px;
+  top: 32px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+
+.header-mail {
+  width: 135px;
+  left: 1078px;
+}
+
+.header-phone {
+  width: 118px;
+  left: 1263px;
+}
+
+footer {
+  position: absolute;
+  width: 1600px;
+  height: 252px;
+  left: 0px;
+  top: 1628px;
+  background: #2f303a;
+}
+
+.contact-footer {
+  position: absolute;
+  width: 231px;
+  height: 21px;
+  left: 215px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  /* or 171% */
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.footer-phone {
+  top: 1812px;
+}
+
+.footer-mail {
+  top: 1782px;
+}
+
+address {
+  position: absolute;
+  width: 231px;
+  height: 21px;
+  left: 215px;
+  top: 1733px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  /* or 171% */
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
