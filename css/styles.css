@@ -12,13 +12,56 @@ header {
   background: #ffffff;
 }
 
+.navigation {
+  position: absolute;
+  height: 16px;
+  top: 32px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+
+.estudio {
+  width: 49px;
+  left: 453px;
+}
+
+.portfolio {
+  width: 65px;
+  left: 552px;
+}
+
+.contact {
+  width: 67px;
+  left: 667px;
+}
+
 .main-display {
+  display: flex;
   position: absolute;
   width: 1600px;
   height: 600px;
   left: -4px;
   top: 80px;
   background: #2f303a;
+}
+
+.main-title {
+  position: absolute;
+  width: 696px;
+  height: 120px;
+  left: 448px;
+  top: 280px;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+  /* or 136% */
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
 }
 
 .logo {
@@ -38,7 +81,21 @@ header {
 
 .main-button {
   background-color: #2196f3;
-  color: white;
+  width: 197px;
+  height: 30px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+}
+
+.features {
+  display: flex;
 }
 
 a {
@@ -106,7 +163,7 @@ address {
   width: 231px;
   height: 21px;
   left: 215px;
-  top: 1733px;
+  top: 2258px;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
