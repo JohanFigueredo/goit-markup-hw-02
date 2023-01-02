@@ -12,7 +12,7 @@ header {
   background: #ffffff;
 }
 
-ul.navigation {
+.navigation {
   display: flex;
   position: absolute;
   height: 16px;
@@ -241,17 +241,21 @@ a:hover {
   left: 1015px;
 }
 
+.team {
+  position: absolute;
+  width: 1600px;
+  height: 648px;
+  left: 0px;
+  top: 1510px;
+  background: #f5f4fa;
+}
+
 .container {
   position: absolute;
   width: 270px;
   height: 368px;
-  left: 515px;
   top: 1696px;
   background: #ffffff;
-}
-
-.team {
-  display: flex;
 }
 
 .member {
