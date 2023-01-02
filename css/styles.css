@@ -12,7 +12,8 @@ header {
   background: #ffffff;
 }
 
-.navigation {
+ul.navigation {
+  display: flex;
   position: absolute;
   height: 16px;
   top: 32px;
@@ -220,6 +221,7 @@ a:hover {
 }
 
 .operation {
+  display: flex;
   position: absolute;
   width: 373.16px;
   height: 323.7px;
@@ -236,6 +238,10 @@ a:hover {
 
 .tablet {
   left: 1015px;
+}
+
+section.team {
+  display: flex;
 }
 
 footer {
