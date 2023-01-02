@@ -280,18 +280,26 @@ a:hover {
   position: absolute;
   width: 270px;
   height: 260px;
-  top: 186px;
+  top: 0px;
+}
+
+.andres {
+  left: 0px;
+}
+
+.carla {
+  left: 307px;
+}
+
+.mario {
+  left: 614px;
+}
+
+.pablo {
+  left: 907px;
 }
 
 .member-andres {
-  width: 97px;
-  height: 19px;
-  left: 0px;
-  top: 0px;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.19;
-  letter-spacing: 0.03em;
 }
 
 .member-carla {
@@ -327,19 +335,19 @@ a:hover {
   letter-spacing: 0.03em;
 }
 
-.andres {
+.one {
   left: 208px;
 }
 
-.carla {
+.two {
   left: 515px;
 }
 
-.mario {
+.three {
   left: 822px;
 }
 
-.pablo {
+.four {
   left: 1115px;
 }
 
