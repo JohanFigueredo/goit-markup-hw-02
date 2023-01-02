@@ -14,7 +14,6 @@ header {
 
 ul.navigation {
   display: flex;
-  position: absolute;
   height: 16px;
   top: 32px;
   font-weight: 500;
@@ -49,7 +48,6 @@ ul.navigation {
 }
 
 .main-title {
-  position: absolute;
   width: 696px;
   height: 120px;
   left: 448px;
@@ -148,7 +146,6 @@ ul {
 }
 
 .feature-text {
-  position: absolute;
   width: 270px;
   height: 75px;
   top: 801px;
@@ -185,6 +182,45 @@ a:hover {
   color: #2196f3;
 }
 
+.team {
+  position: absolute;
+  width: 1600px;
+  height: 648px;
+  left: 0px;
+  top: 1510px;
+  background: #f5f4fa;
+}
+
+.team-box {
+width: 270px;
+height: 368px;
+left: 208px;
+top: 1696px;
+background: #FFFFFF;
+}
+
+.team-member {
+width: 270px;
+height: 260px;
+top: 1696px;"
+}
+
+.andres {
+  left: 208px;
+}
+
+.carla {
+  left: 515px;
+}
+
+.mario {
+  left: 822px;
+}
+
+.pablo {
+  left: 1115px;
+}
+
 .contact-header {
   position: absolute;
   color: #757575;
@@ -197,13 +233,11 @@ a:hover {
 }
 
 .header-mail {
-  position: absolute;
   width: 135px;
   left: 1078px;
 }
 
 .header-phone {
-  position: absolute;
   width: 118px;
   left: 1263px;
 }
@@ -246,24 +280,22 @@ section.team {
 
 footer {
   display: flex;
-  position: absolute;
   width: 1600px;
   height: 252px;
   left: 0px;
   top: 1628px;
-  background: #2f303a;
-}
-
-.contact-footer {
-  position: absolute;
-  width: 231px;
-  height: 21px;
-  left: 215px;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
   /* or 171% */
   letter-spacing: 0.03em;
+  background: #2f303a;
+}
+
+.contact-footer {
+  width: 231px;
+  height: 21px;
+  left: 215px;
   color: rgba(255, 255, 255, 0.6);
 }
 
@@ -276,15 +308,9 @@ footer {
 }
 
 address {
-  position: absolute;
   width: 231px;
   height: 21px;
   left: 215px;
   top: 2258px;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 24px;
-  /* or 171% */
-  letter-spacing: 0.03em;
   color: #ffffff;
 }
