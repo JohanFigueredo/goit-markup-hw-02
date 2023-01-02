@@ -39,7 +39,6 @@ header {
 }
 
 .main-display {
-  display: flex;
   position: absolute;
   width: 1600px;
   height: 600px;
@@ -225,6 +224,18 @@ a:hover {
   width: 373.16px;
   height: 323.7px;
   top: 1092.3px;
+}
+
+.keyboard {
+  left: 215px;
+}
+
+.laptop {
+  left: 618.42px;
+}
+
+.tablet {
+  left: 1015px;
 }
 
 footer {
