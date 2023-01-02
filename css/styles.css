@@ -259,7 +259,7 @@ a:hover {
   top: 1604px;
   font-weight: 700;
   font-size: 36px;
-  line-height: 42px;
+  line-height: 1.17;
   text-align: center;
   letter-spacing: 0.03em;
 }
@@ -270,27 +270,6 @@ a:hover {
   height: 368px;
   top: 1696px;
   background: #ffffff;
-}
-
-.member {
-  position: absolute;
-  top: 1696px;
-}
-
-.andres {
-  left: 208px;
-}
-
-.carla {
-  left: 515px;
-}
-
-.mario {
-  left: 822px;
-}
-
-.pablo {
-  left: 1115px;
 }
 
 footer {
