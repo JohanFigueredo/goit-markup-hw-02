@@ -272,6 +272,29 @@ a:hover {
   background: #ffffff;
 }
 
+.member {
+  position: absolute;
+  width: 270px;
+  height: 260px;
+  top: 1696px;
+}
+
+.andres {
+  left: 208px;
+}
+
+.carla {
+  left: 515px;
+}
+
+.mario {
+  left: 822px;
+}
+
+.pablo {
+  left: 1115px;
+}
+
 footer {
   position: absolute;
   width: 1600px;
