@@ -256,7 +256,7 @@ a:hover {
   width: 263px;
   height: 42px;
   left: 669px;
-  top: 1604px;
+  top: 94px;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
@@ -268,7 +268,7 @@ a:hover {
   position: absolute;
   width: 270px;
   height: 368px;
-  top: 1696px;
+  top: 186px;
   background: #ffffff;
 }
 
@@ -276,7 +276,51 @@ a:hover {
   position: absolute;
   width: 270px;
   height: 260px;
-  top: 1696px;
+  top: 186px;
+}
+
+.member-andres {
+  width: 97px;
+  height: 19px;
+  left: 295px;
+  top: 290px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+}
+
+.member-carla {
+  width: 109px;
+  height: 19px;
+  left: 596px;
+  top: 290px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+}
+
+.member-mario {
+  width: 103px;
+  height: 19px;
+  left: 906px;
+  top: 290px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+}
+
+.member-andres {
+  width: 118px;
+  height: 19px;
+  left: 1191px;
+  top: 290px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
 }
 
 .andres {
