@@ -283,7 +283,7 @@ a:hover {
   width: 97px;
   height: 19px;
   left: 295px;
-  top: 290px;
+  top: 476px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
@@ -294,7 +294,8 @@ a:hover {
   width: 109px;
   height: 19px;
   left: 596px;
-  top: 290px;
+  top: 476px;
+  text-align: center;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
@@ -305,18 +306,20 @@ a:hover {
   width: 103px;
   height: 19px;
   left: 906px;
-  top: 290px;
+  top: 476px;
+  text-align: center;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
   letter-spacing: 0.03em;
 }
 
-.member-andres {
+.member-pablo {
   width: 118px;
   height: 19px;
   left: 1191px;
-  top: 290px;
+  top: 476px;
+  text-align: center;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
