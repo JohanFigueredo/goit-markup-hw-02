@@ -95,6 +95,10 @@ ul.navigation {
   border-radius: 4px;
 }
 
+button {
+  cursor: pointer;
+}
+
 .button-title {
   width: 197px;
   height: 30px;
@@ -237,12 +241,43 @@ a:hover {
   left: 1015px;
 }
 
-section.team {
+.container {
+  position: absolute;
+  width: 270px;
+  height: 368px;
+  left: 515px;
+  top: 1696px;
+  background: #ffffff;
+}
+
+.team {
   display: flex;
 }
 
+.member {
+  position: absolute;
+  width: 270px;
+  height: 260px;
+  top: 1696px;
+}
+
+.andres {
+  left: 208px;
+}
+
+.carla {
+  left: 515px;
+}
+
+.mario {
+  left: 822px;
+}
+
+.pablo {
+  left: 1115px;
+}
+
 footer {
-  display: flex;
   position: absolute;
   width: 1600px;
   height: 252px;
