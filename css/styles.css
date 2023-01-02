@@ -242,6 +242,10 @@ a:hover {
   left: 1015px;
 }
 
+.center {
+  text-align: center;
+}
+
 .team {
   position: absolute;
   width: 1600px;
@@ -295,7 +299,6 @@ a:hover {
   height: 19px;
   left: 596px;
   top: 476px;
-  text-align: center;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
@@ -307,7 +310,6 @@ a:hover {
   height: 19px;
   left: 906px;
   top: 476px;
-  text-align: center;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
@@ -319,7 +321,6 @@ a:hover {
   height: 19px;
   left: 1191px;
   top: 476px;
-  text-align: center;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
