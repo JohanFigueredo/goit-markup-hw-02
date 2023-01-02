@@ -54,7 +54,7 @@ header {
   width: 696px;
   height: 120px;
   left: 448px;
-  top: 200px;
+  top: 280px;
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
@@ -213,11 +213,12 @@ a:hover {
 
 .header-phone {
   position: absolute;
-  width: 118px;
+  width: 119px;
   left: 1263px;
 }
 
 .operation-title {
+  position: absolute;
   width: 371.15px;
   height: 46.24px;
   left: 619.43px;
@@ -291,6 +292,7 @@ a:hover {
 }
 
 .member-andres {
+  position: absolute;
   width: 97px;
   height: 19px;
   left: 295px;
@@ -302,6 +304,7 @@ a:hover {
 }
 
 .member-carla {
+  position: absolute;
   width: 109px;
   height: 19px;
   left: 596px;
@@ -313,6 +316,7 @@ a:hover {
 }
 
 .member-mario {
+  position: absolute;
   width: 103px;
   height: 19px;
   left: 906px;
@@ -324,6 +328,7 @@ a:hover {
 }
 
 .member-pablo {
+  position: absolute;
   width: 118px;
   height: 19px;
   left: 1191px;
