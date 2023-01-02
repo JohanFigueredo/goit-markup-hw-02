@@ -283,30 +283,22 @@ a:hover {
   top: 0px;
 }
 
-.andres {
-  left: 0px;
-}
-
-.carla {
-  left: 307px;
-}
-
-.mario {
-  left: 614px;
-}
-
-.pablo {
-  left: 907px;
-}
-
 .member-andres {
+  width: 97px;
+  height: 19px;
+  left: 295px;
+  top: 1986px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
 }
 
 .member-carla {
   width: 109px;
   height: 19px;
-  left: 307px;
-  top: 0px;
+  left: 596px;
+  top: 1986px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
@@ -316,8 +308,8 @@ a:hover {
 .member-mario {
   width: 103px;
   height: 19px;
-  left: 614px;
-  top: 0px;
+  left: 906px;
+  top: 1986px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
@@ -327,8 +319,8 @@ a:hover {
 .member-pablo {
   width: 118px;
   height: 19px;
-  left: 907px;
-  top: 0px;
+  left: 1191px;
+  top: 1986px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
