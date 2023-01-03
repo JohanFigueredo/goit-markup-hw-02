@@ -384,6 +384,7 @@ address {
 
 .categories {
   position: absolute;
+  display: flex;
   height: 38px;
   top: 186px;
   background: #f5f4fa;
@@ -391,26 +392,39 @@ address {
 }
 
 .all {
+  position: absolute;
   width: 73px;
   left: 495px;
 }
 
 .sites {
+  position: absolute;
   width: 128px;
   left: 576px;
 }
 
 .apps {
+  position: absolute;
   width: 145px;
   left: 712px;
 }
 
 .design {
+  position: absolute;
   width: 103px;
   left: 865px;
 }
 
 .marketing {
+  position: absolute;
   width: 130px;
   left: 976px;
+}
+
+.projects {
+  display: flex;
+}
+
+.portfolio-footer {
+  top: 1628;
 }
