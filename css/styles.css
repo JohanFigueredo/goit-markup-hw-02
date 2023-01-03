@@ -422,7 +422,7 @@ address {
 }
 
 .projects {
-  display: flex;
+  top: 274px;
 }
 
 .portfolio-footer {
