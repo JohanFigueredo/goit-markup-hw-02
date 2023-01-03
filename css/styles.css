@@ -217,7 +217,6 @@ a:hover {
 
 .operation-title {
   position: absolute;
-  width: 371.15px;
   height: 46.24px;
   left: 619.43px;
   top: 991px;
@@ -289,8 +288,6 @@ a:hover {
 }
 
 .member-andres {
-  left: 295px;
-  top: 290px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
