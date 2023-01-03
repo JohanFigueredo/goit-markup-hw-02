@@ -289,10 +289,6 @@ a:hover {
 }
 
 .member-andres {
-  display: flex;
-  position: absolute;
-  width: 97px;
-  height: 19px;
   left: 295px;
   top: 290px;
   font-weight: 500;
@@ -302,10 +298,6 @@ a:hover {
 }
 
 .member-carla {
-  display: flex;
-  position: absolute;
-  width: 109px;
-  height: 19px;
   left: 596px;
   top: 290px;
   font-weight: 500;
@@ -315,10 +307,6 @@ a:hover {
 }
 
 .member-mario {
-  display: flex;
-  position: absolute;
-  width: 103px;
-  height: 19px;
   left: 906px;
   top: 290px;
   font-weight: 500;
@@ -328,10 +316,6 @@ a:hover {
 }
 
 .member-pablo {
-  display: flex;
-  position: absolute;
-  width: 118px;
-  height: 19px;
   left: 1191px;
   top: 290px;
   font-weight: 500;
