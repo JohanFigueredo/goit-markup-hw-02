@@ -26,16 +26,19 @@ header {
 }
 
 .estudio {
+  position: absolute;
   width: 49px;
   left: 453px;
 }
 
 .portfolio {
+  position: absolute;
   width: 65px;
   left: 552px;
 }
 
 .contact {
+  position: absolute;
   width: 67px;
   left: 667px;
 }
@@ -229,6 +232,7 @@ a:hover {
 
 .operation {
   display: flex;
+  position: absolute;
   width: 373.16px;
   height: 323.7px;
   top: 1092.3px;
