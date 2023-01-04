@@ -46,7 +46,6 @@ button {
 .main-button {
   padding: 10px 32px;
   gap: 10px;
-  position: absolute;
   width: 261px;
   height: 50px;
   background: #2196f3;
