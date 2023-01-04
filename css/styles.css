@@ -5,59 +5,22 @@ body {
 }
 
 header {
-  position: absolute;
-  width: 1600px;
   height: 80px;
-  left: 0px;
-  top: 0px;
   background: #ffffff;
 }
 
 .navigation {
-  display: flex;
-  position: absolute;
-  height: 16px;
-  top: 32px;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
-  color: #212121;
-}
-
-.estudio {
-  position: absolute;
-  width: 49px;
-  left: 453px;
-}
-
-.portfolio {
-  position: absolute;
-  width: 65px;
-  left: 552px;
-}
-
-.contact {
-  position: absolute;
-  width: 67px;
-  left: 667px;
 }
 
 .main-display {
-  position: absolute;
-  width: 1600px;
-  height: 600px;
-  left: -4px;
-  top: 80px;
   background: #2f303a;
 }
 
 .main-title {
-  position: absolute;
-  width: 696px;
-  height: 120px;
-  left: 448px;
-  top: 200px;
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
@@ -81,21 +44,11 @@ header {
   color: #2196f3;
 }
 
-.logo-header {
-  top: 24px;
-}
-
-.logo-footer {
-  top: 60px;
-}
-
 button {
   cursor: pointer;
 }
 
 .main-button {
-  display: flex;
-  flex-direction: row;
   justify-content: center;
   align-items: center;
   padding: 10px 32px;
@@ -103,8 +56,6 @@ button {
   position: absolute;
   width: 261px;
   height: 50px;
-  left: 666px;
-  top: 350px;
   background: #2196f3;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
@@ -116,7 +67,6 @@ button {
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
-  display: flex;
   align-items: center;
   text-align: center;
   color: #ffffff;
@@ -131,60 +81,19 @@ ul {
 }
 
 .feature {
-  position: absolute;
-  width: 270px;
-  height: 16px;
-  top: 775px;
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #212121;
-}
-
-.details {
-  left: 215px;
-}
-
-.timing {
-  left: 515px;
-}
-
-.planning {
-  left: 815px;
-}
-
-.technology {
-  left: 1115px;
 }
 
 .feature-text {
-  position: absolute;
-  width: 270px;
-  height: 75px;
-  top: 801px;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: #757575;
-}
-
-.details-text {
-  left: 215px;
-}
-
-.timing-text {
-  left: 515px;
-}
-
-.planning-text {
-  left: 815px;
-}
-
-.technology-text {
-  left: 1115px;
 }
 
 a {
@@ -197,32 +106,13 @@ a:hover {
 }
 
 .contact-header {
-  position: absolute;
   color: #757575;
-  height: 16px;
-  top: 32px;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
 }
 
-.header-mail {
-  position: absolute;
-  width: 135px;
-  left: 1078px;
-}
-
-.header-phone {
-  position: absolute;
-  width: 118px;
-  left: 1263px;
-}
-
 .operation-title {
-  position: absolute;
-  height: 46.24px;
-  left: 619.43px;
-  top: 991px;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
@@ -230,45 +120,15 @@ a:hover {
   letter-spacing: 0.03em;
 }
 
-.operation {
-  display: flex;
-  position: absolute;
-  width: 373.16px;
-  height: 323.7px;
-  top: 1092.3px;
-}
-
-.keyboard {
-  left: 215px;
-}
-
-.laptop {
-  left: 618.42px;
-}
-
-.tablet {
-  left: 1015px;
-}
-
 .center {
   text-align: center;
 }
 
 .team {
-  position: absolute;
-  width: 1600px;
-  height: 648px;
-  left: 0px;
-  top: 1510px;
   background: #f5f4fa;
 }
 
 .team-title {
-  position: absolute;
-  width: 263px;
-  height: 42px;
-  left: 669px;
-  top: 94px;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
@@ -276,10 +136,6 @@ a:hover {
 }
 
 .container {
-  position: absolute;
-  width: 270px;
-  height: 368px;
-  top: 186px;
   background: #ffffff;
 }
 
@@ -298,8 +154,6 @@ a:hover {
 }
 
 .member-carla {
-  left: 596px;
-  top: 290px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
@@ -307,8 +161,6 @@ a:hover {
 }
 
 .member-mario {
-  left: 906px;
-  top: 290px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
@@ -316,44 +168,17 @@ a:hover {
 }
 
 .member-pablo {
-  left: 1191px;
-  top: 290px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
   letter-spacing: 0.03em;
 }
 
-.one {
-  left: 208px;
-}
-
-.two {
-  left: 515px;
-}
-
-.three {
-  left: 822px;
-}
-
-.four {
-  left: 1115px;
-}
-
 footer {
-  position: absolute;
-  width: 1600px;
-  height: 252px;
-  left: 0px;
-  top: 2158px;
   background: #2f303a;
 }
 
 .contact-footer {
-  position: absolute;
-  width: 231px;
-  height: 21px;
-  left: 215px;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
@@ -361,20 +186,7 @@ footer {
   color: rgba(255, 255, 255, 0.6);
 }
 
-.footer-phone {
-  top: 171px;
-}
-
-.footer-mail {
-  top: 148px;
-}
-
 address {
-  position: absolute;
-  width: 231px;
-  height: 21px;
-  left: 215px;
-  top: 100px;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
@@ -383,48 +195,6 @@ address {
 }
 
 .categories {
-  position: absolute;
-  display: flex;
-  height: 38px;
-  top: 186px;
   background: #f5f4fa;
   border-radius: 4px;
-}
-
-.all {
-  position: absolute;
-  width: 73px;
-  left: 495px;
-}
-
-.sites {
-  position: absolute;
-  width: 128px;
-  left: 576px;
-}
-
-.apps {
-  position: absolute;
-  width: 145px;
-  left: 712px;
-}
-
-.design {
-  position: absolute;
-  width: 103px;
-  left: 865px;
-}
-
-.marketing {
-  position: absolute;
-  width: 130px;
-  left: 976px;
-}
-
-.projects {
-  top: 274px;
-}
-
-.portfolio-footer {
-  top: 1628;
 }
