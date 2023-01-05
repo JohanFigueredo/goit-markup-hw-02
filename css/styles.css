@@ -43,6 +43,10 @@ button {
   cursor: pointer;
 }
 
+button:focus {
+  color: #2196f3;
+}
+
 .main-button {
   padding: 10px 32px;
   gap: 10px;
@@ -94,6 +98,10 @@ a {
 }
 
 a:hover {
+  color: #2196f3;
+}
+
+a:focus {
   color: #2196f3;
 }
 
@@ -185,6 +193,6 @@ address {
 }
 
 .categories {
-  background: #f5f4fa;
   border-radius: 4px;
+  padding: 6px 24px;
 }
