@@ -197,6 +197,6 @@ address {
   padding: 6px 24px;
 }
 
-.open {
+.link-page.current {
   color: #2196f3;
 }
