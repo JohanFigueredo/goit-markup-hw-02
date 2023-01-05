@@ -196,3 +196,7 @@ address {
   border-radius: 4px;
   padding: 6px 24px;
 }
+
+.open {
+  color: #2196f3;
+}
