@@ -197,12 +197,12 @@ address {
   padding: 6px 24px;
 }
 
-.categories.button:hover {
+.categories:hover {
   color: #ffffff;
   background-color: #2196f3;
 }
 
-.categories.button:focus {
+.categories:focus {
   color: #ffffff;
   background-color: #2196f3;
 }
